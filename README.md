@@ -6,3 +6,6 @@ Antoher line
 
 This is a local edit
  
+I really like the GitHub interface
+
+Again, another line
